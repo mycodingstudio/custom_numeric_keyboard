@@ -60,3 +60,5 @@ Numeric keyboard:
 
 If something is missing, feel free to open a ticket or contribute!
 # custom_numeric_keyboard
+
+# For changing some keyboard styles
